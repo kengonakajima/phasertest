@@ -15,7 +15,7 @@ window.onload = function() {
     function range(x,y) {
         return x + (y-x) * Math.random();
     }
-    var n = 20000;
+    var n = 40000;
     var enemies = [];
     function create () {
 
